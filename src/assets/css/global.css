@@ -1,0 +1,31 @@
+body,
+html,
+#app {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  background-color: #eaedf1;
+  min-width: 1024px;
+}
+
+i.iconfont {
+  margin-right: 10px;
+}
+
+.el-submenu__title,
+.el-menu-item {
+  font-size: 13px;
+}
+
+.el-card {
+  margin-top: 15px;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2) !important;
+}
+.el-table {
+  margin-top: 15px;
+  font-size: 12px;
+}
+.el-pagination {
+  margin-top: 15px;
+}
